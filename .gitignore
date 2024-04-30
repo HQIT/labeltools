@@ -7,3 +7,4 @@ trainval.json
 *.whl
 dist/
 *.egg-info
+build/
