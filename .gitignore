@@ -6,3 +6,4 @@ trainval.json
 *.tar.gz
 *.whl
 dist/
+*.egg-info
